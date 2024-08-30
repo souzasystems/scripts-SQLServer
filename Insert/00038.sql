@@ -1,0 +1,6 @@
+INSERT INTO common.EstadosCivis (DescricaoEstadoCivil, LogIdUsuario, LogRotina)
+VALUES ('SOLTEIRO(A)',   01, 'I')
+      ,('CASADO(A)',     01, 'I')
+      ,('DIVORCIADO(A)', 01, 'I')
+      ,('VIÚVO(A)',      01, 'I')
+      ,('SEPARADO(A)',   01, 'I')

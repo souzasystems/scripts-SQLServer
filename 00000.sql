@@ -1,0 +1,4 @@
+CREATE DATABASE SouzaSystems00001
+GO
+
+USE SouzaSystems00001

@@ -1,0 +1,6 @@
+INSERT INTO enderecos.TiposEndereco (DescricaoTipoEndereco, LogIdUsuario, LogRotina)
+VALUES ('RESIDENCIAL',     01, 'I')
+      ,('COMERCIAL',       01, 'I')
+      ,('COBRANÇA',        01, 'I')
+      ,('ENTREGA',         01, 'I')
+      ,('CORRESPONDÊNCIA', 01, 'I')
